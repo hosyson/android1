@@ -14,7 +14,9 @@ import com.squareup.picasso.Picasso;
 import java.util.ArrayList;
 
 import Model.WeatherData24h;
+
 lalalala
+
 public class CustomAdapter24h extends BaseAdapter {
     Context context;
     ArrayList<WeatherData24h> arrayList;
